@@ -1,12 +1,20 @@
+# Chefmate
 
-  # Design Similar to Chefmate
+This project is a responsive recipe web application inspired by the original Chefmate concept.  
+It is built using **Vite**, **React**, **TypeScript**, and **Tailwind CSS**, focusing on clean UI design and modular components.
 
-  This is a code bundle for Design Similar to Chefmate. The original project is available at https://www.figma.com/design/oDDpN93plruo8IfL9GYlqa/Design-Similar-to-Chefmate.
+## 🧩 Features
+- Modern, responsive interface for recipe exploration  
+- Reusable UI components built with Radix UI  
+- Clean folder structure for scalability  
+- Styled using Tailwind CSS utilities  
 
-  ## Running the code
+## ⚙️ Technologies
+- **Frontend:** React, TypeScript, Vite  
+- **UI Frameworks:** Radix UI, Tailwind CSS  
+- **Icons:** Lucide React  
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
-Deployment switched to Netlify 
+## 🚀 Getting Started
+1. Install dependencies  
+   ```bash
+   npm i
